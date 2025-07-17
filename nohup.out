@@ -1,0 +1,9 @@
+[2025-07-17 03:48:31.837] [info] Using configuration file /home/jon/.config/waybar/config
+[2025-07-17 03:48:31.839] [info] Discovered appearance 'dark'
+[2025-07-17 03:48:31.839] [info] Using CSS file /home/jon/.config/waybar/style.css
+[2025-07-17 03:48:31.842] [info] Hyprland IPC starting
+[2025-07-17 03:48:31.842] [info] Loading persistent workspaces from Waybar config
+[2025-07-17 03:48:31.842] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-07-17 03:48:31.846] [warning] No batteries.
+[2025-07-17 03:48:31.967] [info] Bar configured (width: 2560, height: 26) for output: HDMI-A-1
+sh: line 1: /home/jon/workspace/github.com/jon-castro/ai-agent-python/.venv/bin/activate: Permission denied
