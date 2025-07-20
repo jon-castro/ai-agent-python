@@ -68,7 +68,7 @@ def main():
             )
 
             for candidate in prompt_result.candidates:
-                messages.append(candidate)
+                messages.append(candidate.content)
 
             if args.verbose:
                 print(f"User prompt: {args.prompt}")
